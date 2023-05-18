@@ -1,4 +1,4 @@
-# PlasterLang
+# PlasterLang (Moving different direction)
 PlasterLang is a compiled, interpreted, multi-paradigm, programming language
 
 PlasterLang has many editions, many of which are the same, except for the scripted editions. There are currently implementations in JavaScript, Ruby, Python, C++, and C#. The JavaScript, Ruby, and Python editions will support better on the front-end and server-side execution, whereas, the C++ and C# editions will work better on the back-end. Below will be lists of what each one specifically implements for it's edition. The grand list will be labeled as such with the basics that all editions implement.
